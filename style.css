@@ -1,0 +1,29 @@
+.text{
+    text-align: center;
+}
+.absolute{
+    width: 100%;
+    position: relative;
+
+}
+.sectionImg{
+    width:500px;
+    height: 350px;
+    position: relative;
+    top: 245px;
+}
+
+.sectionImg1{
+    width: 420px;
+    height: 420px;
+    position: relative;
+    top: 4px;
+    left: 356px;
+}
+.dis{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: -69px;
+    left: -184px;
+}
